@@ -4,6 +4,7 @@ import org.hibernate.annotations.GeneratorType;
 
 import javax.persistence.*;
 
+@Entity
 public class Notes {
 
     @Id
